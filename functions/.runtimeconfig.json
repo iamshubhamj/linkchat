@@ -1,0 +1,5 @@
+{
+  "admin": {
+    "serviceconf": "gcpserviceconfig-dev.json"
+  }
+}

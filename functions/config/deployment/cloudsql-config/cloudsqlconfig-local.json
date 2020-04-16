@@ -1,7 +1,7 @@
 {
     "NAME": "linkchat",
     "SOCKET_PATH": null,
-    "HOST":"34.69.209.252",
+    "HOST":"your public IP",
     "PORT": "3306",
     "USER": "root",
     "PASSWORD": "root@123",

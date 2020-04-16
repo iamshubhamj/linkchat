@@ -1,6 +1,6 @@
 {
     "NAME": "linkchat",
-    "SOCKET_PATH": "/cloudsql/linkchat-274219:us-central1:linkchat",
+    "SOCKET_PATH": "/cloudsql/cloud sql instance connection",
     "HOST":null,
     "PORT": "3306",
     "USER": "root",
